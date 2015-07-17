@@ -37,3 +37,4 @@ so lets get introduced to them.
 * Upload 5 images
 * Create a album and add your images to it
 * Make 2 comments on anyones posted images
+
